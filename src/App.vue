@@ -26,6 +26,8 @@ export default {
 </script>
 
 <style>
+import BootstrapVue from 'bootstrap-vue'
+
 #app {
       background-image: url(./assets/fond.jpg);
       background-repeat: no-repeat ;
@@ -39,5 +41,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
 
 </style>
