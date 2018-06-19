@@ -26,7 +26,6 @@ export default {
 </script>
 
 <style>
-import BootstrapVue from 'bootstrap-vue'
 
 #app {
       background-image: url(./assets/fond.jpg);
@@ -36,6 +35,7 @@ import BootstrapVue from 'bootstrap-vue'
       background-attachment:fixed ;
       font-family: Arial, Helvetica, sans-serif;
 }
+import BootstrapVue from 'bootstrap-vue'
 
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
